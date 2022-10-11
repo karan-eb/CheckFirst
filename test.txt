@@ -1,1 +1,2 @@
-Hello, welcome to my git tutorial
+Hello, welcome to my git tutorial.
+In next view we will learn more
